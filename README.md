@@ -27,6 +27,18 @@ It is designed to run from a **Blu-ray disc ISO**, allowing a stable, offline, s
 
 ---
 
+## **How to Jailbreak Your PS4 on 12.52 and Under**
+
+[Youtube Video](https://www.youtube.com/watch?v=WU5QH_9mV8I)
+[bluray burner - Google Search](https://www.google.com/search?client=firefox-b-1-d&sca_esv=83abbd765e15724a&sxsrf=AE3TifOfCHwfiviMNBnDN0mG1cniAG9jGg%3A1764026272941&udm=2&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZjSkgYzz5-5RrRWAIniWd7tzPwkE1KJWcRvaH01D-XIVq8GTSVeX03zdmjcvv_uucX31r6B_fyEmxe3wX1bmDzbfywwl3lJ8EPdmXdrBi8SpnqUEP5rRxk0WDdnjBB0Sjj2u6upfbSPNxYzY43SRR4EBfs7fgjRcPczUnijDMP2MXkLcRW3muEgYHwQiaPiB3uRzyiA&q=bluray+burner&sa=X&ved=2ahUKEwi24P369YuRAxWoIDQIHdqfGLoQtKgLegQIFRAB&biw=1920&bih=995)
+[blu ray-bdrw disc - Google Search](https://www.google.com/search?sca_esv=a7bc91a92d9a045d&udm=2&fbs=AIIjpHx4nJjfGojPVHhEACUHPiMQ_pbg5bWizQs3A_kIenjtcpTTqBUdyVgzq0c3_k8z34EAuM72an33lMW6RWde9ePJpwNFtZw3UQvFloZy04_0a2t90M1pjb-hlKRN5_Y-eT60CVgJ2cjEFDHXhQH1yr14WplUeZxvRQ4XnTCsYRI6eyKJoII4Xb75il4u_FAr2Sb-WhUhJ0tGO2p0Nn5dPvjYXF-8Vw&q=blu+ray-bdrw+disc&sa=X&ved=2ahUKEwilo9Stlo2RAxXZ_7sIHfBvEAEQtKgLegQIERAB&biw=3840&bih=2041&dpr=1)
+[Releases · GoldHEN/henloader_lp](https://github.com/iaceene/HENloader_Source/releases/tag/V1)
+[GoldHEN v2.4b18.7 - SiSTRo's Ko-fi Shop](https://ko-fi.com/s/5d29f9e29c)
+[The Official ImgBurn Website](https://www.imgburn.com)
+[PKG-Zone](https://pkg-zone.com/)
+
+---
+
 ## **Features**
 
 * **Dual Exploit Support**
