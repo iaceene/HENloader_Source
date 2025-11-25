@@ -29,6 +29,8 @@ It is designed to run from a **Blu-ray disc ISO**, allowing a stable, offline, s
 
 ## **How to Jailbreak Your PS4 on 12.52 and Under**
 
+[Guide](https://iaceene.github.io/HENloader/)
+
 [YouTube Video](https://www.youtube.com/watch?v=WU5QH_9mV8I)
 
 [Bluray burner - Google Search](https://www.google.com/search?q=bluray+burner)
