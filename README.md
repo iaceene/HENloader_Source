@@ -1,5 +1,23 @@
 # **HENloader LP – SOURCE**
 
+```java
+              InitXlet.console.println("Hen Loader LP v1.0, based on:");
+              InitXlet.console.println("- GoldHEN 2.4b18.7 by SiSTR0");
+              InitXlet.console.println("- poops code by theflow0");
+              InitXlet.console.println("- lapse code by Gezine");
+              InitXlet.console.println("- BDJ build environment by kimariin");
+              InitXlet.console.println("- java console by sleirsgoevy");
+              InitXlet.console.println("");
+              System.gc();
+              if (System.getSecurityManager() != null) {
+                InitXlet.console.println("Priviledge escalation failure, unsupported firmware?");
+              } else {
+                Kernel.initializeKernelOffsets();
+                String str = Helper.getCurrentFirmwareVersion();
+                InitXlet.console.println("Firmware: " + str);
+                if (!KernelOffset.hasPS4Offsets()) {
+```
+
 ## **Overview**
 
 **HENloader LP** is a PlayStation 4 Blu-ray–based exploit loader that combines **Lapse** and **Poopsploit** exploits with **GoldHEN** support.
