@@ -101,7 +101,8 @@ Grab the latest release of **HENloader LP** from the Releases section.
 ### **2. Prepare USB**
 
 1. Format USB to **FAT32** or **exFAT**.
-2. Place your payload file in the root and rename it to:
+2. Place your payload file in the root and rename it
+> more infos visit this repo [ps4jb payloads](https://github.com/sleirsgoevy/ps4jb-payloads).
 
 ```
 payload.bin
